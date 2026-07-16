@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## Hi, I'm Ritesh <br><br>💻 MCA Student<br><br>☕ Java • Python • SQL • Git<br><br>🚀 Backend Developer building scalable software<br><br>🌱 Learning PostgreSQL, Docker 
 
 
